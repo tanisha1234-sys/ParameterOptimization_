@@ -1,4 +1,4 @@
-Sure! Here's a **short and concise README** for a parameter optimization project:
+
 
 ---
 
